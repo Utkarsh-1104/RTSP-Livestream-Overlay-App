@@ -1,0 +1,6 @@
+Flask==2.3.6
+flask-cors==3.0.11
+pymongo==4.5.1
+python-dotenv==1.0.0
+dnspython==2.3.0
+bson==0.5.10
