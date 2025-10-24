@@ -11,7 +11,8 @@ The app allows you to **stream live video via RTSP**, add **custom overlays** (t
 ### 1. Clone or Download the Project
 Clone the repository using Git:
 ```bash
-git clone https://github.com/your-username/your-repo.git
+https://github.com/Utkarsh-1104/RTSP-Livestream-Overlay-App.git
+
 cd livestream-app
 ```
 Or download the ZIP and extract it manually.
